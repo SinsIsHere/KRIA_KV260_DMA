@@ -6,7 +6,7 @@
       "gen_directory": "../../../../KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA",
       "name": "KRIA_KV260_DMA",
       "rev_ctrl_bd_flag": "RevCtrlBdOff",
-      "synth_flow_mode": "Hierarchical",
+      "synth_flow_mode": "None",
       "tool_version": "2022.2",
       "validated": "true"
     },

@@ -1,0 +1,7 @@
+vhdl xil_defaultlib  \
+"../../../../KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/sim/KRIA_KV260_DMA_axi_dma_0_0.vhd" \
+"../../../../KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/sim/KRIA_KV260_DMA_rst_ps8_0_99M_0.vhd" \
+"../../../../KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/sim/bd_8dbc_psr_aclk_0.vhd" \
+"../../../../KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_1/sim/bd_4189_psr_aclk_0.vhd" \
+
+nosort
