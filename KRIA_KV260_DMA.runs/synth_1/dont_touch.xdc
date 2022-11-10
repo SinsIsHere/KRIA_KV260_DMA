@@ -25,10 +25,137 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==KRIA_KV260_
 # IP: bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/KRIA_KV260_DMA_axi_smc_1.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_axi_smc_1 || ORIG_REF_NAME==KRIA_KV260_DMA_axi_smc_1} -quiet] -quiet
 
+# Block Designs: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/bd_8dbc.bd
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_0/bd_8dbc_one_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/bd_8dbc_psr_aclk_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_2/bd_8dbc_s00mmu_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_3/bd_8dbc_s00tr_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_4/bd_8dbc_s00sic_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_5/bd_8dbc_s00a2s_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_6/bd_8dbc_sarn_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_7/bd_8dbc_srn_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_8/bd_8dbc_m00s2a_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_9/bd_8dbc_m00e_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
 # IP: bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/KRIA_KV260_DMA_axi_smc_1_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_axi_smc_1_0 || ORIG_REF_NAME==KRIA_KV260_DMA_axi_smc_1_0} -quiet] -quiet
 
+# Block Designs: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/bd_4189.bd
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_0/bd_4189_one_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_1/bd_4189_psr_aclk_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_2/bd_4189_s00mmu_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_3/bd_4189_s00tr_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_4/bd_4189_s00sic_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_5/bd_4189_s00a2s_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_6/bd_4189_sawn_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_7/bd_4189_swn_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_8/bd_4189_sbn_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_9/bd_4189_m00s2a_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
+# IP: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_10/bd_4189_m00e_0.xci
+# DONT_TOUCH constraint suppressed by (parent) sub-design file.
+
 # IP: bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axis_data_fifo_0_0/KRIA_KV260_DMA_axis_data_fifo_0_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_axis_data_fifo_0_0 || ORIG_REF_NAME==KRIA_KV260_DMA_axis_data_fifo_0_0} -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0.xdc
+set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_zynq_ultra_ps_e_0_0 || ORIG_REF_NAME==KRIA_KV260_DMA_zynq_ultra_ps_e_0_0} -quiet] {/inst } ]/inst ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/KRIA_KV260_DMA_axi_dma_0_0.xdc
+set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_axi_dma_0_0 || ORIG_REF_NAME==KRIA_KV260_DMA_axi_dma_0_0} -quiet] {/U0 } ]/U0 ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/KRIA_KV260_DMA_axi_dma_0_0_clocks.xdc
+#dup# set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_axi_dma_0_0 || ORIG_REF_NAME==KRIA_KV260_DMA_axi_dma_0_0} -quiet] {/U0 } ]/U0 ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_ds_0/KRIA_KV260_DMA_auto_ds_0_clocks.xdc
+set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_auto_ds_0 || ORIG_REF_NAME==KRIA_KV260_DMA_auto_ds_0} -quiet] {/inst } ]/inst ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_ds_0/KRIA_KV260_DMA_auto_ds_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_pc_0/KRIA_KV260_DMA_auto_pc_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/KRIA_KV260_DMA_rst_ps8_0_99M_0_board.xdc
+set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_rst_ps8_0_99M_0 || ORIG_REF_NAME==KRIA_KV260_DMA_rst_ps8_0_99M_0} -quiet] {/U0 } ]/U0 ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/KRIA_KV260_DMA_rst_ps8_0_99M_0.xdc
+#dup# set_property KEEP_HIERARCHY SOFT [get_cells [split [join [get_cells -hier -filter {REF_NAME==KRIA_KV260_DMA_rst_ps8_0_99M_0 || ORIG_REF_NAME==KRIA_KV260_DMA_rst_ps8_0_99M_0} -quiet] {/U0 } ]/U0 ] -quiet] -quiet
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/bd_8dbc_psr_aclk_0_board.xdc
+# DONT_TOUCH constraint suppressed by parent sub-design file.
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/bd_8dbc_psr_aclk_0.xdc
+# DONT_TOUCH constraint suppressed by parent sub-design file.
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_5/bd_8dbc_s00a2s_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_6/bd_8dbc_sarn_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_7/bd_8dbc_srn_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_8/bd_8dbc_m00s2a_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_1/bd_4189_psr_aclk_0_board.xdc
+# DONT_TOUCH constraint suppressed by parent sub-design file.
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_1/bd_4189_psr_aclk_0.xdc
+# DONT_TOUCH constraint suppressed by parent sub-design file.
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_5/bd_4189_s00a2s_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_6/bd_4189_sawn_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_7/bd_4189_swn_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_8/bd_4189_sbn_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_9/bd_4189_m00s2a_0_ooc.xdc
+
+# XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/ooc.xdc
 
 # XDC: d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/KRIA_KV260_DMA_ooc.xdc

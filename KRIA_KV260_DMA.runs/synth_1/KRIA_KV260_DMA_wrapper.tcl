@@ -93,14 +93,12 @@ set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0/KRIA_KV260_DMA_zynq_ultra_ps_e_0_0.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/KRIA_KV260_DMA_axi_dma_0_0.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/KRIA_KV260_DMA_axi_dma_0_0_clocks.xdc]
-set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_dma_0_0/KRIA_KV260_DMA_axi_dma_0_0_ooc.xdc]
 set_property used_in_synthesis false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_ds_0/KRIA_KV260_DMA_auto_ds_0_clocks.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_ds_0/KRIA_KV260_DMA_auto_ds_0_clocks.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_ds_0/KRIA_KV260_DMA_auto_ds_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_auto_pc_0/KRIA_KV260_DMA_auto_pc_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/KRIA_KV260_DMA_rst_ps8_0_99M_0_board.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/KRIA_KV260_DMA_rst_ps8_0_99M_0.xdc]
-set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_rst_ps8_0_99M_0/KRIA_KV260_DMA_rst_ps8_0_99M_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/bd_8dbc_psr_aclk_0_board.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_1/bd_8dbc_psr_aclk_0.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1/bd_0/ip/ip_5/bd_8dbc_s00a2s_0_ooc.xdc]
@@ -116,7 +114,6 @@ set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_8/bd_4189_sbn_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/bd_0/ip/ip_9/bd_4189_m00s2a_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axi_smc_1_0/ooc.xdc]
-set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/ip/KRIA_KV260_DMA_axis_data_fifo_0_0/KRIA_KV260_DMA_axis_data_fifo_0_0_ooc.xdc]
 set_property used_in_implementation false [get_files -all d:/KRIA/KRIA_KV260_DMA/KRIA_KV260_DMA.gen/sources_1/bd/KRIA_KV260_DMA/KRIA_KV260_DMA_ooc.xdc]
 
 OPTRACE "Adding files" END { }
